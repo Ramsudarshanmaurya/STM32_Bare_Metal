@@ -417,6 +417,11 @@ R = 330Ω (recommended) ✅
 | GPIOC_ODR | 0x4001100C | PC Output Write |
 
 ---
+## 📸 Hardware Demo
+![Button Toggle Hardware](media/toggle.jpeg)
+
+## 🎥 Video Demo
+> ▶️ **[Click here to watch Button Toggle working video](media/toggle.mp4)**
 
 ## 👨‍💻 Developer
 
