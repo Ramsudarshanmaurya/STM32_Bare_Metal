@@ -484,3 +484,14 @@ MIT License — Free to use, modify and distribute.
 *Is ek concept se hi duniya ki har device chalti hai!"* 💡🔧
 
 </div>
+---
+
+## 📸 Hardware Demo
+
+### Circuit Setup:
+![LED Blink Hardware](media/led_blink.jpeg)
+
+## 🎥 Video Demo
+
+> ▶️ **[Click here to watch LED Blink working video](media/led_blink.mp4)**
+
