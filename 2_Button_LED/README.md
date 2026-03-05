@@ -531,3 +531,8 @@ MIT License — Free to use, modify and distribute with attribution.
 *"Bare Metal = Direct Hardware Control — Real Embedded Engineering!"* 🔧
 
 </div>
+## 📸 Hardware Demo
+![Button Toggle Hardware](media/toggle.jpeg)
+
+## 🎥 Video Demo
+> ▶️ **[Click here to watch Button Toggle working video](media/toggle.mp4)**
