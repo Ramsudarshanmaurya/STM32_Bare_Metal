@@ -484,7 +484,11 @@ if(!(*GPIOA_IDR & (1 << 0)))
 7. Hex file select → Download ✅
 8. Button dabao — LED blinks! 🎉
 ```
+## 📸 Hardware Demo
+![Button Count Hardware](media/count.jpeg)
 
+## 🎥 Video Demo
+> ▶️ **[Click here to watch Button Count working video](media/count.mp4)**
 ---
 
 ## 👨‍💻 Developer
